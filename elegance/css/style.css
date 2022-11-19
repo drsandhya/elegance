@@ -1,0 +1,144 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.navbar-nav .nav-item{
+    color: #ada277 !important;
+ 
+}
+/* FIRST PART */
+.title-one{   
+    font-size: 24px;
+    font-weight: 200;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    line-height: 60px;
+    color:  rgb(173, 159, 107);
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+    /* background-image: url(../images/el-gold.svg);    */
+    background-repeat: no-repeat;
+    background-size: 110px;  
+    padding: 40px 0;
+    background-position: center;
+    
+}
+.title-two {
+    font-size: 20px;
+    font-weight: 200;
+    color: #AB9D6B;
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+    padding: 40px 0;
+    background-position: center;
+    background-size: 100px;
+    margin-top: 2.5rem;
+    
+ 
+}
+.title-two .link-one{
+    color: #b3a162;
+    
+}
+
+.btn-main {
+    text-align: center;
+    font-size: 14px;
+    font-weight: 700!important;
+    text-decoration: none!important;
+    text-transform: uppercase;
+    color: #ffffff!important;
+    min-width: 50px;
+    padding: 15px 35px;
+    background-color: #AB9D6B;
+    display: inline-block;
+} 
+/* Image Overlap  */
+.images-overlap{
+    /* background: url(../images/parallax-01.jpg); */
+    height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 50% -15.6667px;
+
+}
+.imag-overlap-title{
+    
+    font-size: 24px;
+    font-weight: 200;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    line-height: 60px;
+    color: #AB9D6B;
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+    background: url(../images/el-gold.svg);
+    background-repeat: no-repeat;
+    background-size: 111px;
+    padding: 40px 0;
+    background-position: center;
+}
+.span-one{
+    font-size: 18px;
+    line-height: 30px;
+    color: #AB9D6B;
+    text-align: center;
+    letter-spacing: 8px;
+    padding: 20px 0;
+    width: 100%;
+    display: inline-block;
+}
+.btn-downlod{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 700!important;
+    text-decoration: none!important;
+    text-transform: uppercase;
+    color: #ffffff!important;
+    min-width: 50px;
+    padding: 15px 38px;
+    background-color: #AB9D6B;
+    display: inline-block;
+    border: 1px solid #AB9D6B;
+    
+    
+}
+/* NO COMPROMISE */
+.title-one01{   
+    font-size: 30px;
+    font-weight: 200;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    line-height: 60px;
+    color:  rgb(173, 159, 107);
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+    background-image: url(../images/el-gold.svg);   
+    background-repeat: no-repeat;
+    background-size: 110px;  
+    padding: 30px 0;
+    background-position: center;
+    
+}
+.title-two01 {
+    font-size: 20px;
+    font-weight: 200;
+    color: #AB9D6B;
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+    padding: 30px 0;
+    background-position: center;
+    background-size: 100px;
+  
+ 
+}
+.title-two01 .link-one01{
+    color: #b3a162;
+    
+}
